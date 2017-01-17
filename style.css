@@ -40,9 +40,62 @@ nav {
   	background: #ebebeb;
 }
 #sectionbox {
+	float: left;
 	border: 1px solid black;
+	padding: 20px;
 	margin-bottom: 20px;
 	height: 300px;
 	width: 55%;
 	background: #ebebeb;
 }
+
+#aside {
+	float: right;
+	padding: 20px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	height: 300px;
+	width: 42.7%;
+	background: #ebebeb;
+}
+
+footer {
+	clear: both;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	font-size: 18px
+	text-align: center;
+	padding: 40px;
+	height: 100px;
+  	background: #ebebeb;
+}
+
+#article {
+	border: 1px solid black;
+	padding: 10px;
+	margin: auto;
+	margin-top: 35px;
+	height: 200px;
+	width: 485px;
+	background: #777;
+	color: white;
+}
+
+#headers {
+	border: 1px solid black;
+	background: #ebebeb;
+	height: 60px;
+	color: black;
+	margin-top: 30px;
+}
+
+#paragraph {
+	border: 1px solid black;
+	background: #ebebeb;
+	height: 60px;
+	padding: 2px;
+	color: black;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
