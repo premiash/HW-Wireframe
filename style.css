@@ -19,7 +19,7 @@ body {
 {
 	margin: auto;
 	width: 960px;
-	border: 1px solid green;
+	border: 1px #777;
 }
 
 header {
